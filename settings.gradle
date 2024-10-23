@@ -1,0 +1,5 @@
+rootProject.name = 'estimacionDePi'
+include 'master'
+include 'worker'
+include 'client'
+
